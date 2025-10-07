@@ -5,13 +5,14 @@ This project applies **Deep Learning and Computer Vision** to classify waste ima
 ---
 
 ## 🗂️  Project Structure
+```
 smart_waste_classification/
-
 ├── models/             # The best model saved from training
 ├── notebooks/          # Jupyter notebooks for analysis and modeling
 ├── outputs/            # Generated outputs like confusion matrix, accuracy and loss plots, model predictions
 ├── README.md           # Project overview and documentation
 ├── requirements.txt    # List of Python dependencies for easy setup
+```
 
 ## 🗂️ Dataset
 

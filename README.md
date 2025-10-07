@@ -6,6 +6,7 @@ This project applies **Deep Learning and Computer Vision** to classify waste ima
 
 ## 🗂️  Project Structure
 smart_waste_classification/
+
 ├── models/             # The best model saved from training
 ├── notebooks/          # Jupyter notebooks for analysis and modeling
 ├── outputs/            # Generated outputs like confusion matrix, accuracy and loss plots, model predictions
@@ -82,11 +83,11 @@ After training, the model’s performance was analyzed using:
 
 |        Metric       | Value |
 | :-----------------: | :---: |
-|  Training Accuracy  |  ~87% |
-| Validation Accuracy |  ~92% |
-|    Test Accuracy    |  ~91% |
+|  Training Accuracy  |  ~88% |
+| Validation Accuracy |  ~88% |
+|    Test Accuracy    |  ~89% |
 
-The model achieves 86.73% accuracy on unseen test data, demonstrating strong generalization, correctly classifying most Organic and Recyclable samples.
+The model achieves 89.34% accuracy on unseen test data, demonstrating strong generalization, correctly classifying most Organic and Recyclable samples.
 
 ---
 
